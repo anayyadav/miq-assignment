@@ -1,0 +1,11 @@
+############# TFvars for partner-assets ##################
+miq_test_cidr                  = "192.168.1.0/24"
+miq_test_private_subnets       = "192.168.1.0/25"
+miq_test_public_subnets        = "192.168.1.128/25"
+miq_test_name                  = "Miq-test"
+miq_test_tag_purpose           = "MIQ"
+miq_test_image                 = "ami-09892006daa616946"
+miq_test_root_volume_size      = "35"
+miq_test_root_volume_type      = "standard"
+miq_test_type                  = "t2.micro"
+miq_test_region                = "us-west-1"
